@@ -3,7 +3,7 @@
 ### create a config
 this config is required to identify the user who committed the commits
 ```
-git config user.name Zeel
+git config user.name ManvarZeel
 git config user.email manvarzeel@gmail.com
 ```
 
@@ -57,7 +57,7 @@ git checkout <branch_name/commit_id>
 
 ### to add a new remote
 ```
-git remote add origin git@github.com:dhruvikapadia28/git-helper.git
+git remote add origin git@github.com:manvarzeel/git-helper.git
 ```
 ---
 
