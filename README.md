@@ -57,7 +57,7 @@ git checkout <branch_name/commit_id>
 
 ### to add a new remote
 ```
-git remote add origin git@github.com:manvarzeel/git-helper.git
+git remote add origin git@github.com:ManvarZeel/git-helper.git
 ```
 ---
 
